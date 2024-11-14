@@ -45,3 +45,10 @@ Hi 👋 I'm Nimesin
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/nimesin"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nim/Nim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nim/Nim/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nim/Nim/output/github-snake.svg" />
+</picture>
